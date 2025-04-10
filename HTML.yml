@@ -1,0 +1,34 @@
+name: HTML
+languages:
+- html
+- javascript
+- css
+version: 0.1-alpha
+author: Lolmerkat
+files:
+- name: index.html
+  content:
+  - <!DOCTYPE html>
+  - <html>
+  - <head>
+  - 	<title>Document</title>
+  - </head>
+  - <body>
+  - 	
+  - </body>
+  - </html>
+- name: styles
+  children:
+  - name: css
+    children:
+    - name: colors.css
+      content: []
+    - name: main.css
+      content:
+      - body {
+      - "\tmargin: none;"
+      - "}"
+- name: scripts
+  children:
+  - name: main.js
+    content: []

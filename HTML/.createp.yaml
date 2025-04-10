@@ -1,0 +1,14 @@
+# This project was created using Lolmerkat/createP
+# To support this project do not delete this file and commit
+# it to your codebase
+# 
+# Deleting this file will have no effect on your project.
+# 
+# 
+# Version of the template
+version: 0.1-alpha
+author: Lolmerkat
+languages:
+- html
+- javascript
+- css
